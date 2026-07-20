@@ -1,0 +1,25 @@
+Environments
+
+venv/
+.venv/
+env/
+
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+Project Data and Results
+
+(These are too large for GitHub)
+
+datasets/
+results/
+*.csv
+
+Editor Settings
+
+.vscode/
+.idea/
+.DS_Store
