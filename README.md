@@ -90,7 +90,7 @@ python run_benchmark.py
 
 ---
 
-# 📊 Empirical Highlights
+# Empirical Highlights
 
 Initial benchmarks demonstrate that:
 
@@ -113,7 +113,7 @@ The framework emphasizes:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 - Python
 - PyTorch
